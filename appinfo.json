@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "tobias@langkau.biz",
+    "longName": "colorToolset",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "colorToolset",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "2222a521-5562-4ae6-b16d-08ef497a9b06",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
